@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Switching_regulator_foot)(type KiCad)(uri ${KIPRJMOD}/Switching_regulator_foot.pretty)(options "")(descr ""))
+)
